@@ -2,4 +2,6 @@
 /* Your CSS Code here. */
 .favorite-color{
 	color: indianred;
+	font-size:21px;
+	font-weight:700;
 }
